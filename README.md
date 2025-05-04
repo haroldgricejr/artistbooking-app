@@ -1,1 +1,0 @@
-# artistbooking-app
